@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL: ](https://www.frontendmentor.io/solutions/responsive-landing-page-made-with-grid-and-flex-Fj2I1dThI_)
+- Live Site URL: [Live URL: ](https://javila26.github.io/sunnyside-landing-page/)
 
 ## My process
 
